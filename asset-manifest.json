@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naremanrh-portfolio/static/css/main.4fcb27d0.css",
+    "main.js": "/naremanrh-portfolio/static/js/main.86fbd6e2.js",
+    "index.html": "/naremanrh-portfolio/index.html",
+    "main.4fcb27d0.css.map": "/naremanrh-portfolio/static/css/main.4fcb27d0.css.map",
+    "main.86fbd6e2.js.map": "/naremanrh-portfolio/static/js/main.86fbd6e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fcb27d0.css",
+    "static/js/main.86fbd6e2.js"
+  ]
+}
