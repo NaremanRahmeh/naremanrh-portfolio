@@ -20,8 +20,8 @@ function Navbar({navOpen}) {
         },
         {
             id: 2,
-            link : '#skils',
-            title : 'Skils',
+            link : '#skills',
+            title : 'Skills',
             className : 'nav-link'
         },
         {

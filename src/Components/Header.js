@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { LuMenu } from "react-icons/lu";
 import Navbar from './Navbar';
 import { IoCloseOutline } from "react-icons/io5";
+import Button from './Button';
 
 function Header() {
 
@@ -24,7 +25,10 @@ function Header() {
             </button>
             <Navbar navOpen= {navOpen}/>
         </div>
-      <a href='#' className='p-3 bg-[#7eb895] text-white text-sm max-md:hidden rounded-md'>Contact Me</a>          
+        <Button 
+         title={'Contact Me'}
+         href={'#'}
+         className={'max-md:hidden text-sm bg-[#7eb895] text-white'}/>        
       </div>
     </div>
   )

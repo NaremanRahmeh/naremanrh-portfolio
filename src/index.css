@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-color: #f1f1f1;
+    background-color: #f7f7f7;
 }
 
 .menu-btn{
@@ -17,4 +17,23 @@ body{
 }
 .nav-link.active{
     @apply text-[#7eb895] duration-300
+}
+
+
+.text-shpere {
+    @apply w-full mx-auto flex justify-center items-center
+}
+
+.tagcloud {
+    @apply inline-block top-0 left-0 font-bold md:text-[1.3em] text-sm tracking-[0.0625em]
+}
+
+
+.tagcloud--item {
+    color: #7eb895;
+    text-transform: uppercase;
+}
+
+.tagcloud--item:hover {
+    color: #4b5563;
 }
