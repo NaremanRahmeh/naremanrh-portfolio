@@ -7,11 +7,11 @@ function App() {
   return (
    <>
    <Header/>
-    <main className=" mx-auto xl:max-w-7xl md:pt-6">
+    <div className=" mx-auto xl:max-w-7xl md:pt-6">
      <About/>
      <Skills/>
      <Work/>
-    </main>
+    </div>
    </>
   );
 }
