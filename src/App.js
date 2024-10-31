@@ -1,7 +1,7 @@
-import About from "./About";
+import About from "./Components/About";
 import Header from "./Components/Header";
-import Skills from "./Skills";
-import Work from "./Work";
+import Skills from "./Components/Skills";
+import Work from "./Components/Work";
 
 function App() {
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
 import { SiComma } from "react-icons/si";
-import Button from './Components/Button';
-import TextAnimation from './Components/TextAnimation';
+import Button from './Button';
+import TextAnimation from './TextAnimation';
 
 function About() {
   return (

@@ -1,12 +1,12 @@
 import React from 'react'
-import ReactLogo from './images/react.png'
-import NextLogo from './images/nextjs.png'
-import TailwindLogo from './images/tailwind.png'
-import FigmaLogo from './images/figma.png'
-import JavascriptLogo from './images/javascript.png'
-import WordpressLogo from './images/wordpress.png'
-import CssLogo from './images/css.png'
-import SkillCard from './Components/SkillCard'
+import ReactLogo from '../images/react.png'
+import NextLogo from '../images/nextjs.png'
+import TailwindLogo from '../images/tailwind.png'
+import FigmaLogo from '../images/figma.png'
+import JavascriptLogo from '../images/javascript.png'
+import WordpressLogo from '../images/wordpress.png'
+import CssLogo from '../images/css.png'
+import SkillCard from '../Components/SkillCard'
 
 
 function Skills() {
