@@ -1,17 +1,17 @@
-import About from "./Components/About";
+import About from "./About";
 import Header from "./Components/Header";
-import Skills from "./Components/Skills";
-import Work from "./Components/Work";
+import Skills from "./Skills";
+import Work from "./Work";
 
 function App() {
   return (
    <>
    <Header/>
-    <div className=" mx-auto xl:max-w-7xl md:pt-6">
+    <main className=" mx-auto xl:max-w-7xl md:pt-6">
      <About/>
      <Skills/>
      <Work/>
-    </div>
+    </main>
    </>
   );
 }
