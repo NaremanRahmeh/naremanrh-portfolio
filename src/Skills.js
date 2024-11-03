@@ -57,7 +57,7 @@ function Skills() {
     ]
 
   return (
-       <div id='skills' className='px-2 py-28 '>
+       <div id='skills' className='px-2 py-28'>
         <h2 className='text-lg text-gray-600'>
         Essential Tool I Use
         </h2>

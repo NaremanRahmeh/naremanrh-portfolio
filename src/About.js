@@ -25,7 +25,7 @@ function About() {
             className={'text-base border-2 border-[#7eb895] text-gray-600'}/>
           </div>
         </div>
-        <div className='hidden lg:block'>
+        <div className='hidden md:block'>
           <TextAnimation />
         </div>
      </div>
