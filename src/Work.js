@@ -41,9 +41,9 @@ function Work() {
      },
   ]
   return (
-    <div id='projects' className='px-2 py-14'>
+    <div id='projects' className='px-2 py-20'>
     <div className=''>
-      <h2 className='text-lg text-gray-600 pb-4'>
+      <h2 className='text-xl text-gray-600 pb-4'>
       My Projects
       </h2>
       <div className='grid gap-x-4 gap-y-5 lg:grid-cols-3 md:grid-cols-2 grid-cols-1'>

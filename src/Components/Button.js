@@ -1,10 +1,12 @@
 import React from 'react'
 
-function Button({title ,href ,className}) {
+function Button({title ,href ,className ,target ,download }) {
   return (
    <>
-   <a
+   <a 
     href={href}
+    target={target}
+    download={download}
     className={`p-3 rounded-md ${className}`}>
     {title}
     </a>      

@@ -58,7 +58,7 @@ function Skills() {
 
   return (
        <div id='skills' className='px-2 py-28'>
-        <h2 className='text-lg text-gray-600'>
+        <h2 className='text-xl text-gray-600 pb-4'>
         Essential Tool I Use
         </h2>
         <div className='grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-3 py-5'>

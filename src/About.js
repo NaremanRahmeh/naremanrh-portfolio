@@ -20,8 +20,10 @@ function About() {
           </h1>
           <div className='py-8'>
             <Button
+            target={'_blank'}
             title={'Download Cv'}
-            href={'#'}
+            href={'NaremanRahmeh.pdf'}
+            download={'NaremanRahmeh.pdf'}
             className={'text-base border-2 border-[#7eb895] text-gray-600'}/>
           </div>
         </div>

@@ -4,7 +4,7 @@ import { MdOutlineArrowOutward } from "react-icons/md";
 function WorkCard({data}) {
     
   return (
-    <div className={`relative p-4 rounded-2xl bg-gray-200 ring-1 ring-inset ring-white`}>
+    <div className={`relative p-4 rounded-2xl bg-gray-200/50 ring-1 ring-inset ring-white`}>
      <div className=' py-5 rounded-lg'>
         <img 
         src={data.imgsrc}

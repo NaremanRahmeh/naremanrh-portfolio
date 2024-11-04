@@ -27,7 +27,7 @@ function Header() {
         </div>
         <Button 
          title={'Contact Me'}
-         href={'#'}
+         href={'#contact'}
          className={'max-md:hidden text-sm bg-[#7eb895] text-white'}/>        
       </div>
     </div>
