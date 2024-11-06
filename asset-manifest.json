@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/naremanrh-portfolio/static/css/main.e26e6909.css",
-    "main.js": "/naremanrh-portfolio/static/js/main.0a479182.js",
+    "main.css": "/naremanrh-portfolio/static/css/main.91b3b99a.css",
+    "main.js": "/naremanrh-portfolio/static/js/main.11e86a66.js",
     "static/media/damascann.png": "/naremanrh-portfolio/static/media/damascann.4403d22f3dc0138e72ff.png",
     "static/media/qtec.png": "/naremanrh-portfolio/static/media/qtec.b9783878f51b08558332.png",
     "static/media/tawasy.png": "/naremanrh-portfolio/static/media/tawasy.1c7b4e26dc4f1e36aac1.png",
@@ -15,11 +15,11 @@
     "static/media/nextjs.png": "/naremanrh-portfolio/static/media/nextjs.4e6e1a782086560cd46e.png",
     "static/media/javascript.png": "/naremanrh-portfolio/static/media/javascript.1d9f8a2203a38774c937.png",
     "index.html": "/naremanrh-portfolio/index.html",
-    "main.e26e6909.css.map": "/naremanrh-portfolio/static/css/main.e26e6909.css.map",
-    "main.0a479182.js.map": "/naremanrh-portfolio/static/js/main.0a479182.js.map"
+    "main.91b3b99a.css.map": "/naremanrh-portfolio/static/css/main.91b3b99a.css.map",
+    "main.11e86a66.js.map": "/naremanrh-portfolio/static/js/main.11e86a66.js.map"
   },
   "entrypoints": [
-    "static/css/main.e26e6909.css",
-    "static/js/main.0a479182.js"
+    "static/css/main.91b3b99a.css",
+    "static/js/main.11e86a66.js"
   ]
 }
