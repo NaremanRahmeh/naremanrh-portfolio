@@ -5,7 +5,7 @@ import TextAnimation from './Components/TextAnimation';
 
 function About() {
   return (
-    <div id='about' className='pt-28 lg:pt-36 px-2'>
+    <div id='about' className='pt-28 lg:pt-26 px-2'>
      <div className='w-full grid md:grid-cols-2 grid-cols-1 md:space-x-3 space-x-0 items-center justify-center'>
         <div >
           <p className='flex items-center'>

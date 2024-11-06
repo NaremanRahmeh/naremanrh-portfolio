@@ -8,7 +8,7 @@ function Header() {
 
     const [navOpen ,setNavOpen] = useState(false);
   return (
-    <div className='fixed top-0 left-0 w-full h-20 flex items-center z-40 bg-gradient-to-b from-gray-100 to-gray-100/0'>
+    <div className='top-0 left-0 w-full h-20 flex items-center z-40 bg-gradient-to-b from-gray-100 to-gray-100/0'>
       <div className='w-full mx-auto px-4 flex justify-between items-center md:px-6 md:grid-cols-[1fr,3fr,1fr]'>
         <div>
             
