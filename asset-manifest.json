@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/naremanrh-portfolio/static/css/main.91b3b99a.css",
-    "main.js": "/naremanrh-portfolio/static/js/main.11e86a66.js",
+    "main.css": "/naremanrh-portfolio/static/css/main.afaf89c0.css",
+    "main.js": "/naremanrh-portfolio/static/js/main.3651bd5c.js",
     "static/media/damascann.png": "/naremanrh-portfolio/static/media/damascann.4403d22f3dc0138e72ff.png",
     "static/media/qtec.png": "/naremanrh-portfolio/static/media/qtec.b9783878f51b08558332.png",
     "static/media/tawasy.png": "/naremanrh-portfolio/static/media/tawasy.1c7b4e26dc4f1e36aac1.png",
@@ -11,15 +11,16 @@
     "static/media/css.png": "/naremanrh-portfolio/static/media/css.908dd73ce80e3bf95f24.png",
     "static/media/taskmanagment.png": "/naremanrh-portfolio/static/media/taskmanagment.8b59a9ac4dc0c983ca99.png",
     "static/media/tailwind.png": "/naremanrh-portfolio/static/media/tailwind.1fe74edaa5d9a6f9798e.png",
+    "static/media/section2.png": "/naremanrh-portfolio/static/media/section2.b84a4911ebecbbcd0fbf.png",
     "static/media/figma.png": "/naremanrh-portfolio/static/media/figma.155abc6fabe521e84683.png",
     "static/media/nextjs.png": "/naremanrh-portfolio/static/media/nextjs.4e6e1a782086560cd46e.png",
     "static/media/javascript.png": "/naremanrh-portfolio/static/media/javascript.1d9f8a2203a38774c937.png",
     "index.html": "/naremanrh-portfolio/index.html",
-    "main.91b3b99a.css.map": "/naremanrh-portfolio/static/css/main.91b3b99a.css.map",
-    "main.11e86a66.js.map": "/naremanrh-portfolio/static/js/main.11e86a66.js.map"
+    "main.afaf89c0.css.map": "/naremanrh-portfolio/static/css/main.afaf89c0.css.map",
+    "main.3651bd5c.js.map": "/naremanrh-portfolio/static/js/main.3651bd5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.91b3b99a.css",
-    "static/js/main.11e86a66.js"
+    "static/css/main.afaf89c0.css",
+    "static/js/main.3651bd5c.js"
   ]
 }
