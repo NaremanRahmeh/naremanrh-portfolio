@@ -19,8 +19,40 @@ body{
     @apply text-[#7eb895] duration-300
 }
 
-
 .text-shpere {
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1e1e1e;
+}
+
+.tagcloud {
+    display: inline-block;
+    top: 0;
+    left: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.0625em;
+    font-size: 1.3em;
+}
+
+/* Change color of each text in sphere on hover   */
+.tagcloud--item {
+    color: #00ffffff;
+    text-transform: uppercase;
+}
+
+.tagcloud--item:hover {
+    color: #ff6347;
+}
+            
+    
+
+/* .text-shpere {
     @apply w-full mx-auto flex justify-center items-center h-[60vh]
 }
 
@@ -36,7 +68,7 @@ body{
 
 .tagcloud--item:hover {
     color: #4b5563;
-}
+} */
 
 .lable{
     @apply block text-sm text-gray-600 font-normal mb-2

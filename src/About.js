@@ -29,12 +29,13 @@ function About() {
           </div>
         </div>
         <div className='hidden md:block'>
-          <div className='flex justify-center items-center'>
+          {/* <div className='flex justify-center items-center'>
         <img 
         src={Photo}
         className='w-[80%]'
         alt='logo'/>
-        </div>
+        </div> */}
+        <TextAnimation/>
         </div>
      </div>
     </div>
