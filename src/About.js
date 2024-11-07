@@ -7,7 +7,7 @@ import Photo from './images/bg.png'
 function About() {
 
   return (
-    <div id='about' className='pt-28 lg:pt-16 px-2'>
+    <div id='about' className='pt-28 lg:pt-26 px-2'>
      <div className='w-full grid md:grid-cols-2 grid-cols-1 md:space-x-3 space-x-0 items-center justify-center'>
         <div >
           <p className='flex items-center'>
@@ -31,7 +31,7 @@ function About() {
         </div>
         <div className='hidden md:block'>
           <div className='flex flex-col justify-center items-center'>
-           <img src={Photo} className='w-[60%]'/>
+           <img src={Photo} className='w-[85%]'/>
          <TextAnimation/>
         </div>
         </div>
