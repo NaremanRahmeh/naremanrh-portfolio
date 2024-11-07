@@ -2,10 +2,11 @@ import React from 'react'
 import { SiComma } from "react-icons/si";
 import Button from './Components/Button';
 import TextAnimation from './Components/TextAnimation';
+import Photo from './images/section2.png'
 
 function About() {
   return (
-    <div id='about' className='pt-28 lg:pt-26 px-2'>
+    <div id='about' className='pt-28 lg:pt-16 px-2'>
      <div className='w-full grid md:grid-cols-2 grid-cols-1 md:space-x-3 space-x-0 items-center justify-center'>
         <div >
           <p className='flex items-center'>
@@ -28,7 +29,12 @@ function About() {
           </div>
         </div>
         <div className='hidden md:block'>
-          <TextAnimation />
+          <div className='flex justify-center items-center'>
+        <img 
+        src={Photo}
+        className='w-[80%]'
+        alt='logo'/>
+        </div>
         </div>
      </div>
     </div>
